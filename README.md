@@ -1,5 +1,13 @@
-- 👋 Hi, I’m @feywilddd
-- 👀 I’m interested in web developpement and making fun projects
-- 🌱 I’m currently learning in a technical program about software developpement
-- 📫 How to reach me : send me an email at jaclev34@gmail.com
+- 👋 Salut, c'est jacob!
+- Étudiant en Conception et Développement
+- 📫 Prend contact avec moi à cette adresse : jaclev34@gmail.com
+---
+### Quelques projets : 
+##### WEB :
+Markethome, un site transactionnel fait sans framework, simplement en php, js et html/css
+Lien vers le repo : https://github.com/feywilddd/MarketHome
+![page d'acceuil](./img/home.png)
+---
+Le golf de berthier, une landing page bien simple
+![page d'acceuil](./img/GolfBerthier.png)
 
